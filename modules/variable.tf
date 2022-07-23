@@ -10,6 +10,6 @@ default = "t2.micro"
 
 variable "ami" {
 type = string
-default = "ami-0d8af85ac424857b4"
+default = "ami-0ddf424f81ddb0720"
 }
 
